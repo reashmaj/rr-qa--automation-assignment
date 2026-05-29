@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+reports/*.html
+reports/*.log
+reports/allure-results/
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
